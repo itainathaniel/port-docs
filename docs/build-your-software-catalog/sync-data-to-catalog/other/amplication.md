@@ -13,6 +13,8 @@ import OceanRealtimeInstallation from "/docs/build-your-software-catalog/sync-da
 
 Port's Amplication integration allows you to model Amplication resources in your software catalog, from which you can then automate code generation using predefined templates, ensuring standardization for resource creation.
 
+This integration was created by [Amplication](https://amplication.com).
+
 ## Overview
 
 This integration allows you to:
